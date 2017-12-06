@@ -1,1 +1,3 @@
 - [typescript-collections](https://github.com/basarat/typescript-collections)
+- [postgraphql](https://github.com/postgraphql/postgraphql)
+- [Typescript client for kubernetes](https://github.com/kubernetes-client/typescript)
