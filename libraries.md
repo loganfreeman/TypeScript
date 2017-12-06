@@ -15,5 +15,5 @@
 - [A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript](https://github.com/inversify/InversifyJS)
 - [A terminal for a more modern age](https://github.com/Eugeny/terminus)
 - [Wechat for Bot. Powered by Puppeteer / Node.js / TypeScript / Docker](https://github.com/Chatie/wechaty)
-- [A library of modular chart components built on D3](https://github.com/palantir/plottable)
+
 
