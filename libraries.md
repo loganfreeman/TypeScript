@@ -5,3 +5,4 @@
 - [A terminal emulator for the 21st century](https://github.com/railsware/upterm)
 - [Admin dashboard template based on Angular 4](https://github.com/akveo/ngx-admin)
 - [A fully-featured, production ready caching GraphQL client](https://github.com/apollographql/apollo-client)
+- [Hardware-accelerated deep learning // machine learning // NumPy library for the web](https://github.com/PAIR-code/deeplearnjs)
