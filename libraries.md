@@ -7,3 +7,4 @@
 - [A fully-featured, production ready caching GraphQL client](https://github.com/apollographql/apollo-client)
 - [Hardware-accelerated deep learning // machine learning // NumPy library for the web](https://github.com/PAIR-code/deeplearnjs)
 - [ORM for TypeScript and JavaScript (ES7, ES6, ES5)](https://github.com/typeorm/typeorm)
+- [A next-generation code testing stack for JavaScript](https://github.com/theintern/intern)
