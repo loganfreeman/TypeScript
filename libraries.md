@@ -1,0 +1,1 @@
+- [typescript-collections](https://github.com/basarat/typescript-collections)
