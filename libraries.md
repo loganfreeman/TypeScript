@@ -6,3 +6,4 @@
 - [Admin dashboard template based on Angular 4](https://github.com/akveo/ngx-admin)
 - [A fully-featured, production ready caching GraphQL client](https://github.com/apollographql/apollo-client)
 - [Hardware-accelerated deep learning // machine learning // NumPy library for the web](https://github.com/PAIR-code/deeplearnjs)
+- [ORM for TypeScript and JavaScript (ES7, ES6, ES5)](https://github.com/typeorm/typeorm)
